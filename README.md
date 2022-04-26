@@ -4,8 +4,8 @@
 <hr>
 
 <p>My stack</p>
-<p align="left">
-    <h5>Solidity, JS, Python, Hardhat, Ethers.js, Web3.js, React</h5>
+<p align="right">
+    <h4>Solidity, JS, Python, Hardhat, Ethers.js, Web3.js, React</h4>
 </p>
 
 
