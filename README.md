@@ -5,8 +5,7 @@
 
 <p>My stack</p>
 <p align="right">
-    <h4>Python, SQL,  (and other tools, which occasionally end up in my projects)</h4>
-    <h4>🤓 and other tools, which occasionally end up in my projects </h4>
+    <h4>Python, SQL, Bash (and other tools, which occasionally end up in my projects)</h4>
 </p>
 
 
