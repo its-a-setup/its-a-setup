@@ -1,7 +1,7 @@
 # Hi! I'm Ilya Andreev
- - Creator of [chainspect.app](https://chainspect.app/)
- - Blockchain enthusiast
- - Avid learner
+ - ### Creator of [chainspect.app](https://chainspect.app/)
+ - ### Blockchain enthusiast
+ - ### Avid learner
 
 <hr>
 
