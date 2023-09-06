@@ -1,5 +1,7 @@
-<h1 align="center">Hi! I'm Ilya Andreev</h1>
-<h3 align="center">A business oriented data engineer</h3>
+## Hi! I'm Ilya Andreev
+ - Creator of [chainspect.app](https://chainspect.app/)
+ - Blockchain enthusiast
+ - Avid learner
 
 <hr>
 
