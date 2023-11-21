@@ -1,5 +1,5 @@
 # Hi! I'm Elijah Andreev
- - Creator of [chainspect.app](https://chainspect.app/)
+ - Co-Founder of [chainspect.app](https://chainspect.app/) (blockchain analytics platform)
  - Blockchain enthusiast
  - Avid learner
 
